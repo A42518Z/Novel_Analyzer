@@ -1,0 +1,27 @@
+{
+  "taskId": "20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦",
+  "taskDir": "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦",
+  "novel": {
+    "fileName": "时停起手，邪神也得给我跪下！ 作者：六个葫芦.txt",
+    "relativePath": "data/novels/时停起手，邪神也得给我跪下！ 作者：六个葫芦.txt"
+  },
+  "dimension": "full",
+  "startChapter": 1,
+  "endChapter": 10,
+  "totalBatches": 4,
+  "targetGroupWordCount": 7000,
+  "createdAt": "2026-05-10T08:14:12.386Z",
+  "promptFiles": [
+    "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/prompts/batch-001.md",
+    "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/prompts/batch-002.md",
+    "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/prompts/batch-003.md",
+    "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/prompts/batch-004.md"
+  ],
+  "resultFiles": [
+    "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/results/batch-001.md",
+    "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/results/batch-002.md",
+    "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/results/batch-003.md",
+    "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/results/batch-004.md"
+  ],
+  "finalMergePromptFile": "reports/chat-tasks/20260510081412-时停起手_邪神也得给我跪下_作者_六个葫芦/prompts/final-merge.md"
+}
