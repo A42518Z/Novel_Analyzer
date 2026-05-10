@@ -28,6 +28,7 @@ function makeFallbackChapters(text: string): Chapter[] {
   return chapters;
 }
 
+
 export function parseChapters(text: string): Chapter[] {
   const source = text.replace(/\r\n/g, "\n");
   const matches = Array.from(source.matchAll(CHAPTER_HEADING_PATTERN));
