@@ -13,6 +13,9 @@ function makeFallbackChapters(text: string): Chapter[] {
     return [];
   }
 
+
+  const abc=1
+
   const chapters: Chapter[] = [];
   for (let offset = 0; offset < cleanText.length; offset += FALLBACK_CHUNK_SIZE) {
     const content = cleanText.slice(offset, offset + FALLBACK_CHUNK_SIZE).trim();
